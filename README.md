@@ -117,18 +117,21 @@ VI.	Total - Nutritional and Maternal Causes:
 5.	If you consider causes of death for the entire world as a distribution (normalized to percentage) then are there countries that have statistically significantly different distributions?
 6.	Are there any correlations between causes?
 7.	Are there any interesting time trends across years?
+8.	Which year has most number of deaths?
+9.	Which cause that has the highest increment of deaths from 1990 to 2019? 
 
 ### Visualization
 
-1.	World distribution of deaths - map
-2.	Deaths by terrorism in countries – bar chart 
-3.	Total # of deaths by continent – bar chart
-4.	Total # of deaths in each continent filtered by the year – line chart
-5.	Total # of deaths by country by each cause – packed bubble
-6.	Total # of deaths by year – line chart
-7.	Total # of deaths for each country – line chart
-8.	Total # of deaths for each country – Treemap
-9.	World and each country distribution of deaths
+1. 	World distribution of deaths - map
+3.	Deaths by terrorism in countries – bar chart 
+4.	Total # of deaths by continent – bar chart
+5.	Total # of deaths in each continent filtered by the year – line chart
+6.	Total # of deaths by country by each cause – packed bubble
+7.	Total # of deaths by year – line chart
+8.	Total # of deaths for each country – line chart
+9.	Total # of deaths for each country – Treemap
+10.	World and each country distribution of deaths
+11.	Dashboard - Death Causes in Countries and Continents 1990 - 2019
 
 
 ## Challenges 
